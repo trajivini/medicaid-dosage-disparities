@@ -12,11 +12,6 @@ This capstone project investigates Medicaid drug reimbursement trends across U.S
 - Achieved highest model R² of 0.93 with RMSE 41,991.16
 - Conducted cost-benefit analysis estimating $24M in potential savings with improved accuracy
 
-## Structure
-- `notebooks/`: Exploratory data analysis and model development
-- `scripts/`: Finalized model and preprocessing code
-- `report/`: Final PDF report for academic submission
-
 ---
 
 📫 Feel free to reach out for collaboration or job opportunities!
